@@ -1,0 +1,19 @@
+{
+  "name": "ai-text-summarizer",
+  "version": "1.0.0",
+  "description": "AI-powered text summarization web application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --exec python app.py",
+    "start": "python app.py"
+  },
+  "keywords": [
+    "ai",
+    "text",
+    "summarizer",
+    "flask",
+    "python"
+  ],
+  "author": "",
+  "license": "MIT"
+} 
